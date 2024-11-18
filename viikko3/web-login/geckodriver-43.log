@@ -1,0 +1,20 @@
+1731928110159	geckodriver	INFO	Listening on 127.0.0.1:56061
+1731928110182	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "55305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCZGA36"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1731928110628	Marionette	INFO	Marionette enabled
+1731928110753	Marionette	INFO	Listening on port 46339
+WebDriver BiDi listening on ws://127.0.0.1:55305
+Read port: 46339
+1731928110909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55305/devtools/browser/9d8e35c3-e601-4362-aa89-109167a855e9
+[Parent 43028, IPC I/O Parent] WARNING: process 43160 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:5001."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:5001."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:5001."
+1731928115202	Marionette	INFO	Stopped listening on port 46339
+[Parent 43028, IPC I/O Parent] WARNING: process 43123 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 43028, IPC I/O Parent] WARNING: process 43223 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245

@@ -1,0 +1,17 @@
+1731925955661	geckodriver	INFO	Listening on 127.0.0.1:41717
+1731925955680	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "49127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileotROe7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1731925956161	Marionette	INFO	Marionette enabled
+1731925956318	Marionette	INFO	Listening on port 36855
+WebDriver BiDi listening on ws://127.0.0.1:49127
+Read port: 36855
+1731925956500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49127/devtools/browser/f7e89b00-2a76-456f-b00d-38f6603adfaa
+[Parent 28725, IPC I/O Parent] WARNING: process 28853 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1731925958411	Marionette	INFO	Stopped listening on port 36855
+[Parent 28725, IPC I/O Parent] WARNING: process 28816 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 28725, IPC I/O Parent] WARNING: process 28914 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
